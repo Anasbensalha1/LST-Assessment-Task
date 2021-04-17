@@ -1,0 +1,93 @@
+
+.task-num{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background: #e6e6e5;
+}
+section{
+    position: absolute;
+    
+    
+}
+section{
+    display: flex;
+    height: auto;
+    
+}
+.persoinfo-text{
+    
+    width: 150px;
+    height: 200px;
+    
+    
+}
+.tasks-half{
+    background-color: #015b7e;
+    height: auto;
+}
+.pic{
+    width: 100x;
+    height: 100px;
+    
+}
+.img-container{
+    
+}
+.but-container{
+    
+    position: absolute;
+    bottom: 0;
+    width: relative;
+    height: relative;
+    
+}
+.perso-info{
+    background-color:#bc863c;
+    
+    position: relative;
+    width: 200px;
+    
+    
+
+}
+.titles{
+    text-align: center;
+}
+.tasks{
+    
+}
+.task{
+    margin: 10px;
+    display: flex;
+}
+.but{
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+.tasks-half{
+    width: auto;
+    align-items: center;
+    display: relative;
+    justify-content: space-between;
+}
+.element{
+    
+    
+    
+    
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.top-half{
+    padding: 10%;
+    
+}
